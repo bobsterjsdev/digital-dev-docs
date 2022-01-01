@@ -23,8 +23,8 @@ def open_browser(addr):
 
 
 @task(help={
-    "config-file": "Provide a specific MkDocs config",
-    "dev-addr": "IP address and port to serve documentation locally (default: localhost:8000)"
+    "config-file": "mkdocs.yml",
+    "dev-addr": "localhost:8000"
 })
 def serve(c, config_file="mkdocs.yml", dev_addr="localhost:8000"):
     """
