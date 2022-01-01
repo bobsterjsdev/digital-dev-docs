@@ -70,3 +70,6 @@ nav:
   - "About": "about.md"
   - "Products":
       - "Ambulance Tail Lift": "ambulance/taillift.md"
+      - "MDT System":
+        - "Setup The MDT": "ambulance/mdt/setup-mdt.md"
+        - "Using The MDT": "ambulance/mdt/using-mdt.md"
