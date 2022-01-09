@@ -3,7 +3,7 @@
 This page shows you how to use the ambulance kit placer
 
 ## Install the kit placer
-Move the tool named "Ambulance Kit Placer" into StarterPack
+Move the tool named "Ambulance Kit Placer" into StarterPack<br/>
 Move the folder named "AmbulanceKit" into ReplicatedStorage
 
 ![Kit Placement](https://i.ibb.co/M7jP7pY/Kit-Placement.png)
