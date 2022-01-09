@@ -67,7 +67,6 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "About": "about.md"
   - "Products":
       - "Ambulance Tail Lift": "ambulance/taillift.md"
       - "BVM Tool": "ambulance/bvm.md"
