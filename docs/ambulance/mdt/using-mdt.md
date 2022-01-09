@@ -23,11 +23,12 @@ The "Map & Status" button will bring up the Map & Status screen.<br/>
 The "Incident Details" button will bring up the Incident Details screen.<br/>
 
 ### Status Buttons on the MDT Terminal
-![MDT Top Buttons](https://i.ibb.co/9wvtNqn/Topbar-Buttons.png)<br/>
-Mob - Mark yourself as available<br/>
+![MDT Top Buttons](https://i.ibb.co/0txK4md/Topbar-Buttons.png)<br/>
+Mob - En route to an incident<br/>
 At Scn - At Scene to an incident<br/>
 Lve Scn - Leaving scene (Responding to hospital)<br/>
 At Hosp - Arrived at hospital<br/>
+Clear VNR - Available for calls<br/>
 
 ## MDT GUI
 ![MDT GUI](https://i.ibb.co/vV5rNT3/Callout-UI.png)<br/>
