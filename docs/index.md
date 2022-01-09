@@ -4,7 +4,7 @@ This website contains all of the documentation for Digital Development products.
 
 ## Products
 
-### UK Paramedic Setup
+### UK Paramedic Set
 * [Ambulance Kit Placer](/ambulance/ambulancekit)
 * [BVM Tool](/ambulance/bvm)
 ### Ambulance Tail Lift
