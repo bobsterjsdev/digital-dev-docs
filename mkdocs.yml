@@ -8,9 +8,9 @@ site_url: "https://docs.digitaldev.bobsterjs.ml/"
 copyright: "&copy; 2022 Digital Development & BobsterJS"
 
 # Repository
-repo_name: "bobsterjsdev/digital-dev-docs"
-repo_url: "https://github.com/bobsterjsdev/digital-dev-docs"
-edit_uri: "https://github.com/bobsterjsdev/digital-dev-docs/edit/main/docs"
+repo_name: "bobstersok/digital-dev-docs"
+repo_url: "https://github.com/bobstersok/digital-dev-docs"
+edit_uri: "https://github.com/bobstersok/digital-dev-docs/edit/main/docs"
 
 # Configuration
 docs_dir: "docs"
