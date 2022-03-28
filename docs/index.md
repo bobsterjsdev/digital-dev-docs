@@ -2,6 +2,8 @@
 
 This website contains all of the documentation for Digital Development products.
 
+### If none of the articles help you, make sure to open a ticket in #support in the Digital Development discord.
+
 ## Products
 
 ### UK Paramedic Set
