@@ -6,7 +6,7 @@ The model & gui included are the only things needed for the system to work.
 ## Setup the MDT
 * Move the Roblox model "UNGROUP WORKSPACE" & ungroup into Workspae.
 * Move the Roblox model "UNGROUP STARTERGUI" & ungroup into StarterGui. We will customise the script below.
-* Move the Roblox model "UNGROUP REPLICATEDSTORAGE" & ungroup into ReplicatedStorage.
+* Move the Roblox model "UNGROUP REPLICATEDSTORAGE" & ungroup into ReplicatedStorage.<br/>
 ![Where to move contents](https://i.ibb.co/MS2vFzh/instructions.png)
 
 ### Add Users to the UserOnly script
