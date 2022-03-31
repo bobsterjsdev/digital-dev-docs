@@ -4,14 +4,15 @@ When you receive the product there will be a folder with contains a GUI & Roblox
 The model & gui included are the only things needed for the system to work.
 
 ## Setup the MDT
-* Move the Roblox model "MDT Terminal" into where you want the MDT to be located.
-* Move the MDT GUI into StarterGui. We will customise the script below.
-![Where to move contents](https://i.ibb.co/MhV9rLW/where-to-move-models.png)
+* Move the Roblox model "UNGROUP WORKSPACE" & ungroup into Workspae.
+* Move the Roblox model "UNGROUP STARTERGUI" & ungroup into StarterGui. We will customise the script below.
+* Move the Roblox model "UNGROUP REPLICATEDSTORAGE" & ungroup into ReplicatedStorage.
+![Where to move contents](https://i.ibb.co/MS2vFzh/instructions.png)
 
 ### Add Users to the UserOnly script
 #### This tutorial will show you how to edit the User Only script.
 * Open the script "UserOnly" inside the MDT GUI
-* Add your name to the allowed table at the top. (e.g. {"UserOne", "UserTwo})
+* Add your name to the allowed table at the top. (e.g. {"UserOne", "UserTwo"})
 * Close the script and play the game. You should now see the GUI on your screen
 
 ### How to change Identification code
