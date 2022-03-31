@@ -9,6 +9,11 @@ The model & gui included are the only things needed for the system to work.
 * Move the Roblox model "UNGROUP REPLICATEDSTORAGE" & ungroup into ReplicatedStorage.<br/>
 ![Where to move contents](https://i.ibb.co/MS2vFzh/instructions.png)
 
+## Setup the MDT - Plugin Version
+* Move the Roblox model "UNGROUP STARTERGUI" & ungroup into StarterGui. We will customise the script below.
+* Move the Roblox model "UNGROUP REPLICATEDSTORAGE" & ungroup into ReplicatedStorage.<br/>
+![Where to move contents for plugin](https://i.ibb.co/Zx0q7mP/plugin-instructions.png)
+
 ### Add Users to the UserOnly script
 #### This tutorial will show you how to edit the User Only script.
 * Open the script "UserOnly" inside the MDT GUI
