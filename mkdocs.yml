@@ -71,6 +71,7 @@ nav:
       - "Ambulance Tail Lift": "ambulance/taillift.md"
       - "BVM Tool": "ambulance/bvm.md"
       - "Ambulance Kit Placer": "ambulance/ambulancekit.md"
+      - "Barrier Control System": "pluxeur/barriercontrol.md"
       - "MDT System":
         - "Setup The MDT": "ambulance/mdt/setup-mdt.md"
         - "Using The MDT": "ambulance/mdt/using-mdt.md"
